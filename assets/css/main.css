@@ -107,9 +107,8 @@ a:after {
 
 
 #headerwrap {
-	/*background-color: #83B54F;*/
-    background-color: #5e5e5e;
-    /*background-color: #e0e0d1;*/
+    /*background-color: #5e5e5e;*/
+    background-color: rgba(0,0,0,0.1);
 	padding-top: 60px;
 	padding-bottom: 60px;
 }
@@ -148,7 +147,7 @@ a:after {
 #intro {
 	padding-top: 60px;
 	padding-bottom: 80px;
-	border-top: #bdc3c7 solid 5px;
+	/*border-top: #bdc3c7 solid 5px;*/
 	background-color: #fcfdfd;
 }
 
