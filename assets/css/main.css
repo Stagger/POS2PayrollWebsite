@@ -602,8 +602,15 @@ a:after {
 	 font-size: 25px;
 	 padding: 20px 25px 20px 25px;
  }
- 
- .btn-info{
+
+ .partners {
+     min-height: 200px !important;
+     background-color: #000000;
+     background-color: rgba(0,0,0,0.1) !important;
+     padding-top: 0px !important;
+ }
+
+.btn-info{
 	 background-color: #77b3d4;
  }
  
